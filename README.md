@@ -9,5 +9,5 @@ types out of thin air with the additional step of wrapping your return types in 
 - https://pchiusano.github.io/2014-05-20/scala-gadts.html
 - https://youtu.be/IQYf8_E9G9s
 
-### Resource:
+### Resources:
 - http://www.beyondthelines.net/programming/introduction-to-tagless-final
